@@ -18,4 +18,4 @@ if (liveOrDie === 0 ) {
   alert("You kill the zombie with your "+ weapon + ".");
 }
 
-do 
+ 
